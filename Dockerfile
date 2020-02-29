@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:5ff357b66622c98f24c56bba0a866be5e097306b83c5e6c41c28b6e87ec64c7c
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:ee0fd64c6c564f58675045ce289d061d7245186aae274b9a9c5e7ec878dad251
 MAINTAINER cx
